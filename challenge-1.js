@@ -36,3 +36,6 @@ function SearchingChallenge(str) {
   return `no null`; 
 
 }
+
+// keep this function call here 
+console.log(SearchingChallenge(readline()));
